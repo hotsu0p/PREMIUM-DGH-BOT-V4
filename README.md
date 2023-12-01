@@ -4,6 +4,7 @@
     alt="AVATAR DGH BOT"
   /><br />
   DGH BOT<br />
+##i am rewriting this bot! at least for now. if intested dm hotsuop
   <img
     src="https://img.shields.io/github/package-json/v/Sintya4/PREMIUM-DGH-BOT-V3?style=flat-square&logo=github&label=Version&color=%2334D058"
     alt="DGHBOT Version"
